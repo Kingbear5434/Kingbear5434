@@ -32,6 +32,7 @@ I work in IT support and cybersecurity, and I learn by building: home labs, auto
 ## 📌 Featured
 
 - [**cybersecurity-home-lab**](https://github.com/Kingbear5434/cybersecurity-home-lab) — self-built SOC-style lab: log aggregation and alerting with Splunk, network security monitoring with Security Onion, packet analysis with Wireshark, vulnerability assessments with Nessus and Nmap, web testing with Burp Suite, perimeter defense with pfSense.
+- [**Cashnest**](https://github.com/Kingbear5434/Cashnest) — AI-powered personal finance web app: budgeting, savings goals, debt paydown, and Eboni the Elephant, an AI financial coach (React + Vite + TypeScript + Express + Tailwind CSS).
 
 ## 📫 Get in touch
 
