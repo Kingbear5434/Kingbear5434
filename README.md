@@ -31,7 +31,11 @@ I work in IT support and cybersecurity, and I learn by building: home labs, auto
 
 ## 📌 Featured
 
+- [**homelab-infrastructure**](https://github.com/Kingbear5434/homelab-infrastructure) — my production home server: 51 Docker containers on a Dell OptiPlex 9020 running a full self-hosted media and productivity stack (Jellyfin media pipeline, audiobook and comics servers, local AI with Ollama, monitoring, backups) — private by design, reachable only over Tailscale.
 - [**cybersecurity-home-lab**](https://github.com/Kingbear5434/cybersecurity-home-lab) — self-built SOC-style lab: log aggregation and alerting with Splunk, network security monitoring with Security Onion, packet analysis with Wireshark, vulnerability assessments with Nessus and Nmap, web testing with Burp Suite, perimeter defense with pfSense.
+- [**grc-risk-assessment-homelab**](https://github.com/Kingbear5434/grc-risk-assessment-homelab) — a NIST CSF 2.0 information security risk assessment and POA&M for the home lab: asset inventory, threat analysis, control gaps, and a remediation plan written like a real GRC deliverable.
+- [**voice-studio-pro**](https://github.com/Kingbear5434/voice-studio-pro) — Windows desktop text-to-speech studio (Electron + Microsoft Edge TTS): searchable voice catalog, script editor, speed control, and one-click MP3 export for faceless content narration — no subscription TTS service.
+- [**aircrack-ng-desktop**](https://github.com/Kingbear5434/aircrack-ng-desktop) — desktop command center for the Aircrack-ng wireless security suite: dispatches commands into an Ubuntu WSL backend, streams live output, and tracks interface and tool status with one-click assessment templates.
 - [**Cashnest**](https://github.com/Kingbear5434/Cashnest) — AI-powered personal finance web app: budgeting, savings goals, debt paydown, and Eboni the Elephant, an AI financial coach (React + Vite + TypeScript + Express + Tailwind CSS).
 
 ## 📫 Get in touch
