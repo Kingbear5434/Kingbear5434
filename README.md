@@ -40,6 +40,7 @@ I work in IT support and cybersecurity, and I learn by building: home labs, auto
 
 ## 📫 Get in touch
 
+- Portfolio: [sites.google.com/view/christopherbiasitportfolio](https://sites.google.com/view/christopherbiasitportfolio)
 - LinkedIn: [linkedin.com/in/christopher-bias-6a066489](https://www.linkedin.com/in/christopher-bias-6a066489)
 - Email: christopher1934@gmail.com
 
