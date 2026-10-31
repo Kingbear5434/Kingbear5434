@@ -40,7 +40,6 @@ BA Criminal Justice, University of the District of Columbia, 2015.
 
 - **Cybersecurity home lab** — a working defensive-security environment: Splunk SIEM, Security Onion network monitoring, Nessus/Nmap vulnerability workflows, and pfSense firewall segmentation, documented end to end like real SOC operations.
 - **Automation projects** — n8n workflows and Python scripts that handle the repetitive stuff: media processing with FFmpeg, voice-AI experiments, and homelab glue code.
-- **Microsoft Intune** — hands-on lab training in progress (trial tenant): device enrollment, configuration profiles, compliance policies, app deployment.
 
 ## 📌 Featured
 
@@ -49,7 +48,6 @@ BA Criminal Justice, University of the District of Columbia, 2015.
 - [**grc-risk-assessment-homelab**](https://github.com/Kingbear5434/grc-risk-assessment-homelab) — a NIST CSF 2.0 information security risk assessment and POA&M for the home lab: asset inventory, threat analysis, control gaps, and a remediation plan written like a real GRC deliverable.
 - [**voice-studio-pro**](https://github.com/Kingbear5434/voice-studio-pro) — Windows desktop text-to-speech studio (Electron + Microsoft Edge TTS): searchable voice catalog, script editor, speed control, and one-click MP3 export for faceless content narration — no subscription TTS service.
 - [**aircrack-ng-desktop**](https://github.com/Kingbear5434/aircrack-ng-desktop) — desktop command center for the Aircrack-ng wireless security suite: dispatches commands into an Ubuntu WSL backend, streams live output, and tracks interface and tool status with one-click assessment templates.
-- [**Cashnest**](https://github.com/Kingbear5434/Cashnest) — AI-powered personal finance web app: budgeting, savings goals, debt paydown, and Eboni the Elephant, an AI financial coach (React + Vite + TypeScript + Express + Tailwind CSS).
 
 ## 📫 Get in touch
 
