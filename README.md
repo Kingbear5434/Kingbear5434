@@ -1,14 +1,27 @@
 # Hi, I'm Christopher 👋
 
 **IT Support & Cybersecurity · Homelab Builder · Automation Tinkerer**
-📍 Washington, DC area
+📍 Mount Rainier, MD
 
-I work in IT support and cybersecurity, and I learn by building: home labs, automation workflows, and tools that solve real problems. Currently leveling up toward SOC analyst / security operations work while shipping automations that make everyday computing easier.
+I am a freelance IT support specialist, self-employed since 2020, with an IT/cybersecurity focus. I learn by building: home labs, automation workflows, and tools that solve real problems, through self-directed lab work.
 
 ## 🏅 Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Held** — CompTIA Security+ (2025); AWS Certified Cloud Practitioner (2025); Asana Workflow Specialist; Asana Administrator; Asana AI Workplace Specialist; Google AI Essentials; HIPAA (through March 2027); Peer Recovery Specialist Ethics Training (September 2026) — training.
+**In Progress** — Microsoft SC-900; Microsoft AI-901; IBM AI Fundamentals; AWS SAA; PG County Recovery & Wellness; PG County Harm Reduction.
+
+## 🤝 Peer Support
+I am building a second professional track in peer support alongside IT and cybersecurity.
+- **Peer Recovery Specialist Ethics Training** — completed September 2026 *(training; not a certification)*
+- **Prince George's County Advocacy Training** — completed October 28–29, 2026
+- **Recovery & Wellness coursework** — in progress (November 19–20, 2026)
+- **Harm Reduction coursework** — in progress (November 23, 2026)
+- **Affiliations:** Maryland Peer Advisory Council (MPAC); Mental Health Association of Maryland (MHAMD) advocacy network; AAPD REV UP voting-advocacy network; NAVRA Basic Member
+I am pursuing the Maryland Certified Peer Recovery Specialist (CPRS) credential through the free training pathway with On Our Own of Maryland. I do not currently hold the CPRS credential.
+
+## 🎓 Education
+
+BA Criminal Justice, University of the District of Columbia, 2015.
 
 ## 🛠️ Tech I use
 
@@ -31,7 +44,7 @@ I work in IT support and cybersecurity, and I learn by building: home labs, auto
 
 ## 📌 Featured
 
-- [**homelab-infrastructure**](https://github.com/Kingbear5434/homelab-infrastructure) — my production home server: 51 Docker containers on a Dell OptiPlex 9020 running a full self-hosted media and productivity stack (Jellyfin media pipeline, audiobook and comics servers, local AI with Ollama, monitoring, backups) — private by design, reachable only over Tailscale.
+- [**homelab-infrastructure**](https://github.com/Kingbear5434/homelab-infrastructure) — my production home server: 50+ containerized services on a Dell OptiPlex 9020 running a full self-hosted media and productivity stack (Jellyfin media pipeline, audiobook and comics servers, local AI with Ollama, monitoring, backups) — private by design, reachable only over Tailscale.
 - [**cybersecurity-home-lab**](https://github.com/Kingbear5434/cybersecurity-home-lab) — self-built SOC-style lab: log aggregation and alerting with Splunk, network security monitoring with Security Onion, packet analysis with Wireshark, vulnerability assessments with Nessus and Nmap, web testing with Burp Suite, perimeter defense with pfSense.
 - [**grc-risk-assessment-homelab**](https://github.com/Kingbear5434/grc-risk-assessment-homelab) — a NIST CSF 2.0 information security risk assessment and POA&M for the home lab: asset inventory, threat analysis, control gaps, and a remediation plan written like a real GRC deliverable.
 - [**voice-studio-pro**](https://github.com/Kingbear5434/voice-studio-pro) — Windows desktop text-to-speech studio (Electron + Microsoft Edge TTS): searchable voice catalog, script editor, speed control, and one-click MP3 export for faceless content narration — no subscription TTS service.
@@ -40,7 +53,7 @@ I work in IT support and cybersecurity, and I learn by building: home labs, auto
 
 ## 📫 Get in touch
 
-- Portfolio: [sites.google.com/view/christopherbiasitportfolio](https://sites.google.com/view/christopherbiasitportfolio)
+- Portfolio: [sites.google.com/view/christopher-bias-it-portfolio](https://sites.google.com/view/christopher-bias-it-portfolio)
 - LinkedIn: [linkedin.com/in/christopher-bias-6a066489](https://www.linkedin.com/in/christopher-bias-6a066489)
 - Email: christopher1934@gmail.com
 
