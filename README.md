@@ -7,7 +7,7 @@ I am a freelance IT support specialist, self-employed since 2020, with an IT/cyb
 
 ## 🏅 Certifications
 
-**Held** — CompTIA Security+ (2025); AWS Certified Cloud Practitioner (2025); Asana Workflow Specialist; Asana Administrator; Asana AI Workplace Specialist; Google AI Essentials; HIPAA (through March 2027); Peer Recovery Specialist Ethics Training (September 2026) — training.
+**Held** — CompTIA Security+ (2025); AWS Certified Cloud Practitioner (2025); Asana Workflow Specialist; Asana Administrator ([verify](https://certifications.asana.com/05da156d-90bb-487d-86de-cf9e0866ac15)); Asana AI Workplace Specialist; Google AI Essentials ([verify](https://www.coursera.org/account/accomplishments/specialization/G6VAPCXCTEL4)); HIPAA (through March 2027); Peer Recovery Specialist Ethics Training (September 2026) — training.
 **In Progress** — Microsoft SC-900; Microsoft AI-901; IBM AI Fundamentals; AWS SAA; PG County Recovery & Wellness; PG County Harm Reduction.
 
 ## 🤝 Peer Support
