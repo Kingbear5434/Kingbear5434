@@ -7,7 +7,7 @@ I am a freelance IT support specialist, self-employed since 2020, with an IT/cyb
 
 ## 🏅 Certifications
 
-**Held** — CompTIA Security+ ([verify](https://www.credly.com/badges/3fa2baf3-ad65-4ce8-af90-8810777671c7)); AWS Certified Cloud Practitioner ([verify](https://www.credly.com/badges/fdaef74b-8af6-4448-a574-eefe3a7a1b7e)).
+**Held** — CompTIA Security+ ([verify](https://www.credly.com/badges/3fa2baf3-ad65-4ce8-af90-8810777671c7)); AWS Certified Cloud Practitioner ([verify](https://www.credly.com/badges/fdaef74b-8af6-4448-a574-eefe3a7a1b7e); Asana Administrator Certificate (Mar 2026 – Mar 2028) ([verify](https://certifications.asana.com/05da156d-90bb-487d-86de-cf9e0866ac15)); Google AI Essentials Specialization (Mar 2026) ([verify](https://www.coursera.org/account/accomplishments/specialization/G6VAPCXCTEL4)).
 **In Progress** — Microsoft SC-900; Microsoft AI-901; IBM AI Fundamentals; AWS Solutions Architect Associate; CompTIA CySA+.
 
 **Verify my badges:** [Credly profile](https://www.credly.com/users/christopher-bias.1079f663)
